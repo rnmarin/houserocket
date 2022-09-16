@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run houserocket_v1.py
