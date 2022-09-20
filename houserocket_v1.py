@@ -231,7 +231,7 @@ if __name__ == '__main__':
     # Data Extraction
 
     # Get Data
-    path = r'C:\CDS_PyCharm\do_zero_ao_ds\datasets\kc_house_data.csv'
+    path = 'kc_house_data.csv'
     data = load_data(path)
 
     # Get Geofile
