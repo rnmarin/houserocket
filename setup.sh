@@ -8,6 +8,6 @@ email = renan.marin@rezecon.com.br\"\n\
 echo "\
 [server]\n\
 headless = true\n\
-enabloCORS=false\n\
+enableCORS=false\n\
 port = $PORT\n\
 " > ~/.streamlit/config.toml
